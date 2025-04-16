@@ -94,7 +94,7 @@ export default function Home() {
             {/* Testimonial 1 */}
             <div className="bg-white p-6 rounded-lg shadow-md">
               <p className="text-gray-700 mb-4">
-                "Siempre encuentro la mejor calidad en Puesto 18. ¡Súper recomendable!"
+                &quot;Siempre encuentro la mejor calidad en Puesto 18. ¡Súper recomendable!&quot;
               </p>
               <p className="font-semibold text-green-700">- María G.</p>
             </div>
@@ -102,7 +102,7 @@ export default function Home() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <p className="text-gray-700 mb-4">
                 "Los combos son muy convenientes y la atención es excelente."
-              </p>
+              </p>           
               <p className="font-semibold text-green-700">- Juan P.</p>
             </div>
             {/* Testimonial 3 */}
@@ -115,7 +115,7 @@ export default function Home() {
              {/* Testimonial 4 */}
              <div className="bg-white p-6 rounded-lg shadow-md">
               <p className="text-gray-700 mb-4">
-                "Excelente atencion y productos de buena calidad. Muy recomendable."
+                &quot;Excelente atencion y productos de buena calidad. Muy recomendable.&quot;
               </p>
               <p className="font-semibold text-green-700">- Carlos L.</p>
             </div>
@@ -128,10 +128,10 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-semibold text-amber-600 mb-4">
           ¡Ven a visitarnos!
-          </h2>
+          </h2>    
           <p className="text-lg text-gray-700 mb-8">
-            Nos encontramos en el corazon del mercado. ¡Te esperamos con la mejor atencion!
-          </p>
+          Nos encontramos en el corazón del mercado. ¡Te esperamos con la mejor atención!
+          </p>       
           <a
           
             href="#"
