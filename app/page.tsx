@@ -46,6 +46,9 @@ export default function Home() {
           <h2 className="text-3xl font-semibold text-amber-600 mb-8 text-center">
             Nuestros Combos
           </h2>
+          <p className="text-xs text-gray-500 text-center mb-8">
+            * Los precios mostrados no son reales, son solo demostrativos, ya que la página no posee el catalogo real de Puesto 18.
+          </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {/* Combo 1 */}
             <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition duration-300">
